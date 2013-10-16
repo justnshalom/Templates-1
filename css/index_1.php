@@ -29,6 +29,7 @@
         </section>
         <section id="images">
             <h3>Mis proyectos</h3>
+            <h3>Mis proyectos</h3>
 
         </section>
         <footer>
