@@ -30,7 +30,7 @@
         <section id="images">
             <h3>Mis proyectos</h3>
             <h3>Mis proyectos</h3>
-            <p class="title">Projet ARUC en relations industriell </p>
+            <p class="title">Projet ARUC en relations industrielles of europe  </p>
 
         </section>
         <footer>
